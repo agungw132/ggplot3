@@ -1,0 +1,17 @@
+"","ID_0","ISO","NAME_0","ID_1","NAME_1","VARNAME_1","NL_NAME_1","HASC_1","CC_1","TYPE_1","ENGTYPE_1","VALIDFR_1","VALIDTO_1","REMARKS_1","Shape_Leng","Shape_Area"
+"0",60,"DEU","Germany",753,"Baden-Württemberg",NA,NA,"DE.BW",NA,"Land","State","Unknown","Present",NA,16.8910727572,4.3831945737
+"1",60,"DEU","Germany",754,"Bayern","Bavaria",NA,"DE.BY",NA,"Land","State","Unknown","Present",NA,28.3158458854,8.65610832966
+"2",60,"DEU","Germany",755,"Berlin",NA,NA,"DE.BE",NA,"Land","State","Unknown","Present",NA,2.63121403459,0.117153010261
+"3",60,"DEU","Germany",756,"Brandenburg",NA,NA,"DE.BR",NA,"Land","State","Unknown","Present",NA,18.9913053221,3.89607474071
+"4",60,"DEU","Germany",757,"Bremen",NA,NA,"DE.HB",NA,"Land","State","Unknown","Present",NA,1.58841006979,0.0427869676735
+"5",60,"DEU","Germany",758,"Hamburg",NA,NA,"DE.HH",NA,"Land","State","Unknown","Present",NA,2.5220205262,0.104142125996
+"6",60,"DEU","Germany",759,"Hessen","Hesse",NA,"DE.HE",NA,"Land","State","Unknown","Present",NA,15.5174891087,2.66452926866
+"7",60,"DEU","Germany",760,"Mecklenburg-Vorpommern","Mecklenburg-West Pomerania",NA,"DE.MV",NA,"Land","State","Unknown","Present",NA,32.2550277221,3.1591406103
+"8",60,"DEU","Germany",761,"Niedersachsen","Lower Saxony",NA,"DE.NI",NA,"Land","State","Unknown","Present",NA,30.5515176276,6.36020859693
+"9",60,"DEU","Germany",762,"Nordrhein-Westfalen","North Rhine-Westphalia",NA,"DE.NW",NA,"Land","State","Unknown","Present",NA,18.8596047075,4.43419400017
+"10",60,"DEU","Germany",763,"Rheinland-Pfalz","Rhineland-Palatinate",NA,"DE.RP",NA,"Land","State","Unknown","Present",NA,12.9838784874,2.48308071805
+"11",60,"DEU","Germany",764,"Saarland",NA,NA,"DE.SL",NA,"Land","State","Unknown","Present",NA,3.88870972534,0.317157675913
+"12",60,"DEU","Germany",765,"Sachsen","Saxony",NA,"DE.SN",NA,"Land","State","Unknown","Present",NA,14.9516432586,2.36105876761
+"13",60,"DEU","Germany",766,"Sachsen-Anhalt","Saxony-Anhalt",NA,"DE.ST",NA,"Land","State","Unknown","Present",NA,13.9539047526,2.69692613426
+"14",60,"DEU","Germany",767,"Schleswig-Holstein",NA,NA,"DE.SH",NA,"Land","State","Unknown","Present",NA,24.5192304571,2.15414081525
+"15",60,"DEU","Germany",768,"Thüringen","Thuringia",NA,"DE.TH",NA,"Land","State","Unknown","Present",NA,14.5294858823,2.07735292652
